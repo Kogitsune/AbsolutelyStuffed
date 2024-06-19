@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "it.burns.absolutely_stuffed_1201.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Absolutely_Stuffed_1201.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

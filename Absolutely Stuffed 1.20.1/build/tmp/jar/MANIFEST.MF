@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: absolutely_stuffed
+Specification-Vendor: DrEmily
+Specification-Version: 1
+Implementation-Title: Absolutely_Stuffed_1201
+Implementation-Version: 1.1
+Implementation-Vendor: DrEmily
+Implementation-Timestamp: 2024-06-18T23:00:03-0400
+
